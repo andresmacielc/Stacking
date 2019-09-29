@@ -1,6 +1,6 @@
 # Stacking
 
-Notas de instalación
+# Notas de instalación
 
 Para la correcta ejecucion se requiere tener instalaciones lo más recientes posibles de:
 
@@ -23,16 +23,16 @@ en tu terminal de comandos y ver el panel de carga de libros de notas en tu nave
 Para aquellos usuarios que no tengan las dependencias instaladas, una forma relativamente sencilla de conseguirlas es utilizar una distribución de Python como Anaconda CE, que incluye los paquetes de Python más relevantes para ciencia, matemáticas, ingeniería y análisis de datos.
 Suponiendo que tengas Anaconda instalado, los siguientes comandos crean un entorno nuevo llamado sklearn-env e instalan todas las dependencias:
 
-conda update conda
-conda update anaconda
-conda create --prefix ~/sklearn-env scikit-learn
-source activate sklearn-env
-conda install matplotlib
-conda install ipython
-conda install pandas
-conda install Pillow
-
+    conda update conda
+    conda update anaconda
+    conda create --prefix ~/sklearn-env scikit-learn
+    source activate sklearn-env
+    conda install matplotlib
+    conda install ipython
+    conda install pandas
+    conda install Pillow
+    
 Para la instalacion del mlxtend se utiliza el siguiente comando:
 
-pip install mlxtend
+    pip install mlxtend
 
