@@ -39,12 +39,13 @@ Para la instalación del mlxtend se utiliza el siguiente comando:
 
 Si no estás familiarizado con GitHub o no tienes cuenta, también puedes bajar todo el repositorio como un archivo .zip, accediendo a Clone or download en la cabecera del repositorio (https://github.com/andresmacielc/Stacking) y pulsando sobre Download ZIP
 
-![alt text](https://raw.githubusercontent.com/andresmacielc/Stacking/blob/master/Images/repo.png)
+https://raw.githubusercontent.com/andresmacielc/Stacking/blob/master/Images/repo.png
+https://github.com/andresmacielc/Stacking/blob/master/Images/img_ens.png
 
 Una vez dentro del libro, ejecuta todas las celdas de código a la vez pulsando sobre el botón "Run All", tal y como muestra esta figura:
 
 
-![alt text](https://raw.githubusercontent.com/andresmacielc/Stacking/blob/master/Images/img_ens.png)
+https://raw.githubusercontent.com/andresmacielc/Stacking/blob/master/Images/img_ens.png
 
 De estar todo correcto, el contenido podra ejecutarse en su totalidad.
 
